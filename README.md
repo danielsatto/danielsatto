@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi, I’m Daniel Sato 👋
 
-- 👋 Hi, I’m Daniel Sato
 - 🔭 I’m currently working with ERP and Web.API in Cloud Azure ...
 - 🌱 I’m currently learning DevOps and Big Data
 - 👀 I'm interested in .Net Core, C#, Web.API, Cloud Azure, Azure DevOps, MVC, EF.Core, Dapper, Nhibernate, Postgres, SQL Server, MongoDB...
