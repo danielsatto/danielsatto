@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+👋 Hi, I’m Daniel Sato
+🔭 I’m currently working with ERP and Web.API in Cloud Azure ...
+🌱 I’m currently learning DevOps and Big Data
+👀 I'm interested in .Net Core, C#, Web.API, Cloud Azure, Azure DevOps, MVC, EF.Core, Dapper, Nhibernate, Postgres, SQL Server, MongoDB...
+
+- 📫 How to reach me: https://www.linkedin.com/in/daniel-sato-73326026/
+
 <!--
 **danielsatto/danielsatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
